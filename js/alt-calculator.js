@@ -2,7 +2,7 @@
 // by Emiliano Machado
 
 operators = ['+', '-', '*', '/'];
-operands = [];                                             // for storing the equation's operands
+operands = [];                                            // for storing the equation's operands
 
 function calculate(expression) {                    
   expression = expression.split(' ');                     // seperate all characters in the string 
@@ -34,7 +34,7 @@ function getOperands(expression, index) {                 // takes an expression
 function checkOperator(expression, index) {               // gets an expression's operands and returns the result
   temp = getOperands(expression, index);                  // gets an expression's operands (a, b)
   
-  switch (expression[index]) {                            // performs operation depending on operator
+  switch (expression[index]) {                            // performs operation depending on operator (+, -, *, /)
     case '+':
       return temp[1] + temp[0];
     
@@ -52,4 +52,4 @@ function checkOperator(expression, index) {               // gets an expression'
     }
 }
 
-console.log(calculate('* + 3 4 5'));
+console.log(calculate('* + 3 4 5'));                      // = (3 + 4) * 5 = 35
