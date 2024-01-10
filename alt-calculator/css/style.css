@@ -1,0 +1,36 @@
+body {
+    color: dodgerblue;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    margin-top: 50px;
+}
+
+p {
+    margin: 40px auto;
+}
+
+table {
+    margin: auto;
+    padding: 10px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+input[type="text"] {
+    padding: 10px 15px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
