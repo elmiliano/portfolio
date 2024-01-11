@@ -1,17 +1,48 @@
 body {
-    color: dodgerblue;
+    /* color: dodgerblue; */
     background-color: gainsboro;
+    align-items: center;
+}
+
+h1, h2, p, ul {
+    padding: 0;
+    margin: 0;
+}
+
+#title {
+    margin: 50px 300px;
     text-align: center;
 }
 
-h1 {
-    color: black;
-    margin-top: 50px;
+#body-section {
+    margin: 0 300px;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
-p {
-    margin: 40px auto;
+.emph-text {
+    font-weight: bolder;
+    font-style: italic;
 }
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+div > ul {
+    margin: 0 35%;
+    padding-left: 15px;
+    list-style-type: disc;
+    color: black;
+}
+
+/* p {
+    
+} */
 
 table {
     margin: auto;
