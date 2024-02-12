@@ -2,8 +2,6 @@
 
 This repository contains Emiliano Machado's most relevant projects.
 
-## Alt Calculator
-
 ## FruitRGB
 
 ### Ever struggled to tell if a banana is ripe due to colorblindness?
