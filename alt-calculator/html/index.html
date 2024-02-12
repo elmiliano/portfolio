@@ -4,12 +4,13 @@
     <head>
         <title>alt-calculator</title>
         <link rel="stylesheet" href="../css/style.css">
+        <script src="../js/main.js" defer></script>
     </head>
-
+    
     <body>
         <div id="title">
             <h1>alt-calculator</h1>
-    
+            
             <p>
                 the 'alt-calculator' behaves as any calculator would, <br>
                 except it presents operations as '+ 1 2' instead of '1 + 2'. <br>
@@ -30,7 +31,7 @@
             <table>
                 <tr>
                     <td colspan="3">
-                        <input type="text" id="result">
+                        <input type="text" id="expression">
                     </td>
                     <td><input type="button" value="c"></td>
                 </tr>
@@ -58,7 +59,7 @@
                 
                 <tr>
                     <td><input type="button" value="0"></td>
-                    <td colspan="2"><input type="button" value="="></td>        
+                    <td colspan="2"><input type="button" value="=" id="eq_btn"></td>        
                     <td><input type="button" value="/"></td>
                 </tr>
             </table>
