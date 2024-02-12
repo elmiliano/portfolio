@@ -22,14 +22,10 @@ audioFinder was a submission to the **2023 Apple Worldwide Developers Conference
     <img src="/audio-finder/assets/instructions2.png" height="500">
 </div>
 
-- **Swiftly Search:** 
-    - Enter your desired keyword and let audioFinder scan audio files with precision.
-- **Real-time Highlights:**
-    - See each instance of the word highlighted as the audio plays, offering instant visual reference.
-- **Intuitive Interface:**
-    - Explore a user-friendly interface with clear instructions and seamless navigation.
-- **Powerful Integrations:** 
-    - Leverage Apple technologies like AV Audio Player for playback control and SF Speech Recognizer for accurate speech-to-text conversion.
+- **Swiftly Search:** Enter your desired keyword and let audioFinder scan audio files with precision.
+- **Real-time Highlights:** See the time-stamp of the word highlighted as the audio plays, offering instant visual reference.
+- **Intuitive Interface:** Explore a user-friendly interface with clear instructions and seamless navigation.
+- **Powerful Integrations:** Leverage Apple technologies like AV Audio Player for playback control and SF Speech Recognizer for accurate speech-to-text conversion.
 
 ## FruitRGB
 
