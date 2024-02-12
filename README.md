@@ -2,6 +2,33 @@
 
 This repository contains Emiliano Machado's most relevant projects.
 
+## audioFinder
+
+### Ever wondered what specific words were said in a podcast, lecture, or long audio snippet?
+
+![audioFinder demo](/audio-finder/assets/demo.gif)
+
+> The audio file used for the demonstration is from the AMC series *Better Call Saul*, Season 3, Episode 5 titled "Chicanery." All credits go to AMC, and creators Vince Gilligan and Peter Gould.
+
+Introducing audioFinder, an innovative iOS app that helps you effortlessly discover all occurrences of a chosen word within an audio file. Perfect for students, researchers, journalists, and anyone who wants to quickly navigate audio content.
+
+### Key features:
+
+<div class="row">
+    <img src="/audio-finder/assets/intro.png" height="500">
+    <img src="/audio-finder/assets/instructions1.png" height="500">
+    <img src="/audio-finder/assets/instructions2.png" height="500">
+</div>
+
+- Swiftly Search: 
+    - Enter your desired keyword and let audioFinder scan audio files with precision.
+- Real-time Highlights: 
+    - See each instance of the word highlighted as the audio plays, offering instant visual reference.
+- Intuitive Interface: 
+    - Explore a user-friendly interface with clear instructions and seamless navigation.
+- Powerful Integrations: 
+    - Leverage Apple technologies like AV Audio Player for playback control and SF Speech Recognizer for accurate speech-to-text conversion.
+
 ## FruitRGB
 
 ### Ever struggled to tell if a banana is ripe due to colorblindness?
