@@ -15,13 +15,13 @@ This project, developed for a Bachelor's of Engineering in Cyber Electronics at 
 Its potential extends beyond personal use, offering automation solutions for tasks like fruit sorting in grocery stores or farms.
 
 ### Hardware:
-![Hardware connections](/fruit-rgb/Assets/All.jpg)
+![Hardware connections](/fruit-rgb/Assets/hardware.jpg)
 - TCS34725FN RGB Sensor.
 - STM32F767ZI Board.
 - 16x2 LCD Screen.
 
 ### Software:
-![Web portal for viewing readings](/fruit-rgb/Assets/fruit-rgb.png)
+![Web portal for viewing readings](/fruit-rgb/Assets/web-portal.png)
 - STM32 CubeMX and C in the STM32 IDE.
 - Python:
     - Serial connection with STM32 board.
