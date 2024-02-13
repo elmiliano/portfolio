@@ -65,12 +65,6 @@ audioFinder was a submission to the **2023 Apple Worldwide Developers Conference
 
 ### Ensure Optimal Conditions: Monitor Cold Room Temperature and Humidity with Ease.
 
-<div class="row">
-    <img src="/sb-129/assets/temp_screen.png" height="500">
-    <img src="/sb-129/assets/hum_screen.png" height="500">
-    <img src="/sb-129/assets/hist_screen.png" height="500">
-</div>
-
 Maintaining ideal temperature and humidity levels in cold rooms is crucial for preserving perishable goods, yet manual monitoring is time-consuming and error-prone.
 
 sb-129 is an innovative solution that leverages wireless sensors and a mobile app to provide real-time insights into your cold room conditions. This project was developed during the pursuit of a **Bachelor's of Engineering in Cyber Electronics at CETYS University**.
