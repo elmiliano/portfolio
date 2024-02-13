@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyARE6LXmLLsxcWeMQ5zaf6841dxaAQSv1o',
-    appId: '1:958179923371:web:31d4d608c8f44e50c5eeee',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '958179923371',
     projectId: 'sb-129-eab59',
     authDomain: 'sb-129-eab59.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD5MqdJn2ebvnSTOHju6UfzUeLzyaQhDWk',
-    appId: '1:958179923371:android:913f8ab0a6cc8136c5eeee',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '958179923371',
     projectId: 'sb-129-eab59',
     storageBucket: 'sb-129-eab59.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDsWJbr0ZZLtN32lx3sxz82u85bGWmS3Ec',
-    appId: '1:958179923371:ios:fb8efd991c106761c5eeee',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '958179923371',
     projectId: 'sb-129-eab59',
     storageBucket: 'sb-129-eab59.appspot.com',
@@ -72,8 +72,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDsWJbr0ZZLtN32lx3sxz82u85bGWmS3Ec',
-    appId: '1:958179923371:ios:fb8efd991c106761c5eeee',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '958179923371',
     projectId: 'sb-129-eab59',
     storageBucket: 'sb-129-eab59.appspot.com',
