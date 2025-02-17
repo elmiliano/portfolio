@@ -3,9 +3,12 @@ from server import Server
 from rgb import RGB
 import pandas as pd
 
+SQL_USER = ""
+SQL_PASSWORD = ""
+
 conn = mysql.connector.connect( # connect to MySQL DB
-    user = 'app_usr',
-    password = '7@Rvopcpwc',
+    user = SQL_USER,
+    password = SQL_PASSWORD,
     host = 'localhost',
     database = 'sys'
 )
