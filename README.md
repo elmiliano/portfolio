@@ -10,7 +10,7 @@ This repository contains Emiliano Machado's most relevant projects.
 
 FruitRGB, an innovative banana ripeness detector, empowers the colorblind to confidently choose ripe bananas using an advanced RGB sensor. 
 
-This project, developed during the pursuit of a **Bachelor's of Engineering in Cyber Electronics at CETYS University**, leverages the sophisticated TCS34725FN sensor and a custom algorithm to analyze the banana peel's hue and translate it into accurate ripeness stages. 
+This collaborative project, developed during the pursuit of a **Bachelor's of Engineering in Cyber Electronics at CETYS University**, leverages the sophisticated TCS34725FN sensor and a custom algorithm to analyze the banana peel's hue and translate it into accurate ripeness stages. 
 
 Its potential extends beyond personal use, offering automation solutions for tasks like fruit sorting in grocery stores or farms.
 
